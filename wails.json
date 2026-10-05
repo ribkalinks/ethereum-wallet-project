@@ -1,0 +1,13 @@
+{
+  "name": "ethereum-wallet-project",
+  "outputfilename": "ethereum-wallet-project",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "buildtags": "webkit2gtk_4.1",
+  "author": {
+    "name": "Ribka",
+    "email": "hello@ribka.dev"
+  }
+}
