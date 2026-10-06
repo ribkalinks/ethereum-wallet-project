@@ -1,4 +1,4 @@
-echo "# 📝 Project Retrospective & Cloud Audit
+Project Retrospective & Cloud Audit
 
 ## 1. Project Achievements
 - Berhasil membangun 3-Tier Web3 Desktop Wallet (Go, Wails, React-TS, PostgreSQL).
